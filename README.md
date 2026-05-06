@@ -7,7 +7,7 @@
 
 🔗 https://github.com/nikzad-avasam/youtube-dl
 
-🎬 برای دانلود فایل از تلگرام از پروژه زیر استفاده کنید:
+🚀 برای دانلود فایل از تلگرام از پروژه زیر استفاده کنید:
 
 🔗 https://github.com/nikzad-avasam/TG-Downloader
 
